@@ -226,6 +226,7 @@ document.addEventListener('DOMContentLoaded', function () {
         'FastAPI',
         'REST API',
         'PyTorch',
+        'Scikit-learn',
         'ETL',
         'ELT',
         'EDA',
@@ -233,8 +234,9 @@ document.addEventListener('DOMContentLoaded', function () {
         'Tensorflow',
         'Keras',
         'Technical Writing',
+        'Hyperparameter tuning',
 
-        'Springboot',
+        'Springboot frameworks',
       'React',
       'JavaScript',
       'Node.js',
@@ -243,6 +245,8 @@ document.addEventListener('DOMContentLoaded', function () {
       'PostgreSQL',
       'Git',
       'Docker',
+        'CI/CD',
+        'ML Flow'
 
 
     ]
