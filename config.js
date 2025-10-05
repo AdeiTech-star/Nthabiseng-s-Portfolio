@@ -76,6 +76,22 @@ const siteConfig = {
       link: 'https://github.com/AdeiTech-star/Computer-assisted-cyclist-road-warning-system',
       tags: ['Python', 'Tensorflow', 'Computer Vision', 'Reinforcement Learning', 'Machine Learning'],
     },
+      {
+          title: 'Bank Customer Churn',
+          description:
+              'Developed a machine learning model using XGBoost to predict bank customer churn. Performed comprehensive EDA, data cleaning, and preprocessing to ensure high data quality. Utilized Optuna for hyperparameter tuning, achieving an impressive 99.7% recall',
+          year: '2025',
+          link: 'https://www.kaggle.com/code/nthabisengthema/bank-customer-churn-and-tuning',
+          tags: ['Python','Data Visualisation', 'EDA', 'Machine Learning', 'XGBoost','Hyperparameter tuning', 'Optuna', 'Seaborn','Notebook','Docker'],
+      },
+      {
+          title: 'CreditCardFraudDetection',
+          description:
+              'Built a logistic regression model to detect fraudulent transactions using a Kaggle dataset. Achieved 96% accuracy and explored handling data imbalance through undersampling, oversampling, and SMOTE techniques. Planning to test additional models like Random Forest to improve performance on imbalanced data.',
+          year: '2025',
+          link: 'https://github.com/AdeiTech-star/CreditCardFraudDetection',
+          tags: ['Python','Data Visualisation', 'EDA', 'Machine Learning'],
+      },
     {
       title: 'SwapShop',
       description:
@@ -85,14 +101,7 @@ const siteConfig = {
       tags: ['React Native', 'Firebase', 'Payment Gateway', 'Mobile', 'UI-UX', 'Front-end'],
     },
 
-    {
-      title: 'CreditCardFraudDetection',
-      description:
-        'Built a logistic regression model to detect fraudulent transactions using a Kaggle dataset. Achieved 96% accuracy and explored handling data imbalance through undersampling, oversampling, and SMOTE techniques. Planning to test additional models like Random Forest to improve performance on imbalanced data.',
-      year: '2025',
-      link: 'https://github.com/AdeiTech-star/CreditCardFraudDetection',
-      tags: ['Python','Data Visualisation', 'EDA', 'Machine Learning'],
-    },
+
   ],
   certifications: [
     {
